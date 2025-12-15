@@ -9,11 +9,11 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@actions/http-client": "^2.2.3"
+    "@actions/http-client": "^3.0.0"
   },
   "devDependencies": {
     "@types/node": "^24.7.2",
     "typescript": "^5.9.3",
-    "rimraf": "^6.0.1"
+    "rimraf": "^6.1.2"
   }
 }
